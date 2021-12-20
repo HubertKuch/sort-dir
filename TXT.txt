@@ -1,0 +1,7 @@
+dsd
+
+export dsd='d'
+
+
+dsa
+

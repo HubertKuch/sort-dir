@@ -1,0 +1,1 @@
+sed '/sorter/d' ~/.bashrc

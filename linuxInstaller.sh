@@ -1,5 +1,3 @@
-
-
 if [[ -z "$sorter" ]]; then 
 	echo "export sorter='node $(pwd)/index.js'" >> ~/.bashrc
 	echo Succed installed!
